@@ -1,0 +1,6 @@
+[package]
+name = "renju"
+version = "0.1.0"
+authors = ["Nguyen Duy Hung <hungnd1475@outlook.com>"]
+
+[dependencies]
