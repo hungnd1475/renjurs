@@ -1,0 +1,12 @@
+F:\Documents\HCMUT\HK132 (current)\Artificial Intelligence\Assignments\2\Projects\AIAssignment2\AIAssignment2.Interfaces\bin\Debug\Foundations.dll
+F:\Documents\HCMUT\HK132 (current)\Artificial Intelligence\Assignments\2\Projects\AIAssignment2\AIAssignment2.Interfaces\bin\Debug\Foundations.pdb
+F:\Documents\HCMUT\HK132 (current)\Artificial Intelligence\Assignments\2\Projects\AIAssignment2\Output\Debug\Foundations.dll
+F:\Documents\HCMUT\HK132 (current)\Artificial Intelligence\Assignments\2\Projects\AIAssignment2\Output\Debug\Foundations.pdb
+F:\Documents\HCMUT\HK132 (current)\Artificial Intelligence\Assignments\2\Projects\AIAssignment2\AIAssignment2.Interfaces\obj\Debug\Foundations.dll
+F:\Documents\HCMUT\HK132 (current)\Artificial Intelligence\Assignments\2\Projects\AIAssignment2\AIAssignment2.Interfaces\obj\Debug\Foundations.pdb
+F:\Documents\HCMUT\HK132 (current)\Artificial Intelligence\Assignments\2\Projects\AIAssignment2\AIAssignment2.Interfaces\obj\Debug\AIAssignment2.Foundations.csprojResolveAssemblyReference.cache
+E:\Documents\Artificial Intelligence\Assignment2\hung\Output\Debug\Foundations.dll
+E:\Documents\Artificial Intelligence\Assignment2\hung\Output\Debug\Foundations.pdb
+E:\Documents\Artificial Intelligence\Assignment2\hung\AIAssignment2.Interfaces\obj\Debug\AIAssignment2.Foundations.csprojResolveAssemblyReference.cache
+E:\Documents\Artificial Intelligence\Assignment2\hung\AIAssignment2.Interfaces\obj\Debug\Foundations.dll
+E:\Documents\Artificial Intelligence\Assignment2\hung\AIAssignment2.Interfaces\obj\Debug\Foundations.pdb

@@ -1,0 +1,10 @@
+F:\Documents\HCMUT\HK132 (current)\Artificial Intelligence\Assignments\2\Projects\AIAssignment2\AIAssignment2.GameLogic\bin\Release\GameLogic.dll
+F:\Documents\HCMUT\HK132 (current)\Artificial Intelligence\Assignments\2\Projects\AIAssignment2\AIAssignment2.GameLogic\bin\Release\GameLogic.pdb
+F:\Documents\HCMUT\HK132 (current)\Artificial Intelligence\Assignments\2\Projects\AIAssignment2\AIAssignment2.GameLogic\bin\Release\Foundations.dll
+F:\Documents\HCMUT\HK132 (current)\Artificial Intelligence\Assignments\2\Projects\AIAssignment2\AIAssignment2.GameLogic\bin\Release\Foundations.pdb
+F:\Documents\HCMUT\HK132 (current)\Artificial Intelligence\Assignments\2\Projects\AIAssignment2\Output\Release\GameLogic.dll
+F:\Documents\HCMUT\HK132 (current)\Artificial Intelligence\Assignments\2\Projects\AIAssignment2\AIAssignment2.GameLogic\obj\Release\AIAssignment2.GameLogic.csprojResolveAssemblyReference.cache
+F:\Documents\HCMUT\HK132 (current)\Artificial Intelligence\Assignments\2\Projects\AIAssignment2\AIAssignment2.GameLogic\obj\Release\GameLogic.dll
+E:\Documents\Artificial Intelligence\Assignment2\hung\Output\Release\GameLogic.dll
+E:\Documents\Artificial Intelligence\Assignment2\hung\AIAssignment2.GameLogic\obj\Release\AIAssignment2.GameLogic.csprojResolveAssemblyReference.cache
+E:\Documents\Artificial Intelligence\Assignment2\hung\AIAssignment2.GameLogic\obj\Release\GameLogic.dll

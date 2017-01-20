@@ -1,0 +1,30 @@
+F:\Documents\HCMUT\HK132 (current)\Artificial Intelligence\Assignments\2\Projects\AIAssignment2\AIAssignment2.Presentation\bin\Release\AIAssignment2.Presentation.exe.config
+F:\Documents\HCMUT\HK132 (current)\Artificial Intelligence\Assignments\2\Projects\AIAssignment2\AIAssignment2.Presentation\bin\Release\AIAssignment2.Presentation.exe
+F:\Documents\HCMUT\HK132 (current)\Artificial Intelligence\Assignments\2\Projects\AIAssignment2\AIAssignment2.Presentation\bin\Release\AIAssignment2.Presentation.pdb
+F:\Documents\HCMUT\HK132 (current)\Artificial Intelligence\Assignments\2\Projects\AIAssignment2\AIAssignment2.Presentation\bin\Release\Foundations.dll
+F:\Documents\HCMUT\HK132 (current)\Artificial Intelligence\Assignments\2\Projects\AIAssignment2\AIAssignment2.Presentation\bin\Release\GameLogic.dll
+F:\Documents\HCMUT\HK132 (current)\Artificial Intelligence\Assignments\2\Projects\AIAssignment2\AIAssignment2.Presentation\obj\Release\AIAssignment2.Presentation.csprojResolveAssemblyReference.cache
+F:\Documents\HCMUT\HK132 (current)\Artificial Intelligence\Assignments\2\Projects\AIAssignment2\AIAssignment2.Presentation\obj\Release\MainWindow.baml
+F:\Documents\HCMUT\HK132 (current)\Artificial Intelligence\Assignments\2\Projects\AIAssignment2\AIAssignment2.Presentation\obj\Release\MainWindow.g.cs
+F:\Documents\HCMUT\HK132 (current)\Artificial Intelligence\Assignments\2\Projects\AIAssignment2\AIAssignment2.Presentation\obj\Release\App.g.cs
+F:\Documents\HCMUT\HK132 (current)\Artificial Intelligence\Assignments\2\Projects\AIAssignment2\AIAssignment2.Presentation\obj\Release\AIAssignment2.Presentation_MarkupCompile.cache
+F:\Documents\HCMUT\HK132 (current)\Artificial Intelligence\Assignments\2\Projects\AIAssignment2\AIAssignment2.Presentation\obj\Release\AIAssignment2.Presentation.g.resources
+F:\Documents\HCMUT\HK132 (current)\Artificial Intelligence\Assignments\2\Projects\AIAssignment2\AIAssignment2.Presentation\obj\Release\AIAssignment2.Presentation.Properties.Resources.resources
+F:\Documents\HCMUT\HK132 (current)\Artificial Intelligence\Assignments\2\Projects\AIAssignment2\AIAssignment2.Presentation\obj\Release\AIAssignment2.Presentation.csproj.GenerateResource.Cache
+F:\Documents\HCMUT\HK132 (current)\Artificial Intelligence\Assignments\2\Projects\AIAssignment2\AIAssignment2.Presentation\obj\Release\AIAssignment2.Presentation.exe
+F:\Documents\HCMUT\HK132 (current)\Artificial Intelligence\Assignments\2\Projects\AIAssignment2\AIAssignment2.Presentation\obj\Release\AIAssignment2.Presentation.pdb
+E:\Documents\Artificial Intelligence\Assignment2\hung\AIAssignment2.Presentation\bin\Release\AIAssignment2.Presentation.exe.config
+E:\Documents\Artificial Intelligence\Assignment2\hung\AIAssignment2.Presentation\bin\Release\AIAssignment2.Presentation.exe
+E:\Documents\Artificial Intelligence\Assignment2\hung\AIAssignment2.Presentation\bin\Release\AIAssignment2.Presentation.pdb
+E:\Documents\Artificial Intelligence\Assignment2\hung\AIAssignment2.Presentation\bin\Release\Foundations.dll
+E:\Documents\Artificial Intelligence\Assignment2\hung\AIAssignment2.Presentation\bin\Release\GameLogic.dll
+E:\Documents\Artificial Intelligence\Assignment2\hung\AIAssignment2.Presentation\obj\Release\AIAssignment2.Presentation.csprojResolveAssemblyReference.cache
+E:\Documents\Artificial Intelligence\Assignment2\hung\AIAssignment2.Presentation\obj\Release\MainWindow.baml
+E:\Documents\Artificial Intelligence\Assignment2\hung\AIAssignment2.Presentation\obj\Release\MainWindow.g.cs
+E:\Documents\Artificial Intelligence\Assignment2\hung\AIAssignment2.Presentation\obj\Release\App.g.cs
+E:\Documents\Artificial Intelligence\Assignment2\hung\AIAssignment2.Presentation\obj\Release\AIAssignment2.Presentation_MarkupCompile.cache
+E:\Documents\Artificial Intelligence\Assignment2\hung\AIAssignment2.Presentation\obj\Release\AIAssignment2.Presentation.g.resources
+E:\Documents\Artificial Intelligence\Assignment2\hung\AIAssignment2.Presentation\obj\Release\AIAssignment2.Presentation.Properties.Resources.resources
+E:\Documents\Artificial Intelligence\Assignment2\hung\AIAssignment2.Presentation\obj\Release\AIAssignment2.Presentation.csproj.GenerateResource.Cache
+E:\Documents\Artificial Intelligence\Assignment2\hung\AIAssignment2.Presentation\obj\Release\AIAssignment2.Presentation.exe
+E:\Documents\Artificial Intelligence\Assignment2\hung\AIAssignment2.Presentation\obj\Release\AIAssignment2.Presentation.pdb

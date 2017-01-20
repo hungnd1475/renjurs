@@ -1,0 +1,14 @@
+F:\Documents\HCMUT\HK132 (current)\Artificial Intelligence\Assignments\2\Projects\AIAssignment2\AIAssignment2.GameLogic\bin\Debug\GameLogic.dll
+F:\Documents\HCMUT\HK132 (current)\Artificial Intelligence\Assignments\2\Projects\AIAssignment2\AIAssignment2.GameLogic\bin\Debug\GameLogic.pdb
+F:\Documents\HCMUT\HK132 (current)\Artificial Intelligence\Assignments\2\Projects\AIAssignment2\AIAssignment2.GameLogic\bin\Debug\Foundations.dll
+F:\Documents\HCMUT\HK132 (current)\Artificial Intelligence\Assignments\2\Projects\AIAssignment2\AIAssignment2.GameLogic\bin\Debug\Foundations.pdb
+F:\Documents\HCMUT\HK132 (current)\Artificial Intelligence\Assignments\2\Projects\AIAssignment2\AIAssignment2.GameLogic\obj\Debug\AIAssignment2.GameLogic.csprojResolveAssemblyReference.cache
+F:\Documents\HCMUT\HK132 (current)\Artificial Intelligence\Assignments\2\Projects\AIAssignment2\Output\Debug\GameLogic.dll
+F:\Documents\HCMUT\HK132 (current)\Artificial Intelligence\Assignments\2\Projects\AIAssignment2\Output\Debug\GameLogic.pdb
+F:\Documents\HCMUT\HK132 (current)\Artificial Intelligence\Assignments\2\Projects\AIAssignment2\AIAssignment2.GameLogic\obj\Debug\GameLogic.dll
+F:\Documents\HCMUT\HK132 (current)\Artificial Intelligence\Assignments\2\Projects\AIAssignment2\AIAssignment2.GameLogic\obj\Debug\GameLogic.pdb
+E:\Documents\Artificial Intelligence\Assignment2\hung\Output\Debug\GameLogic.dll
+E:\Documents\Artificial Intelligence\Assignment2\hung\Output\Debug\GameLogic.pdb
+E:\Documents\Artificial Intelligence\Assignment2\hung\AIAssignment2.GameLogic\obj\Debug\AIAssignment2.GameLogic.csprojResolveAssemblyReference.cache
+E:\Documents\Artificial Intelligence\Assignment2\hung\AIAssignment2.GameLogic\obj\Debug\GameLogic.dll
+E:\Documents\Artificial Intelligence\Assignment2\hung\AIAssignment2.GameLogic\obj\Debug\GameLogic.pdb

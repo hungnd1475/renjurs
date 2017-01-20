@@ -1,0 +1,8 @@
+F:\Documents\HCMUT\HK132 (current)\Artificial Intelligence\Assignments\2\Projects\AIAssignment2\AIAssignment2.Interfaces\bin\Release\Foundations.dll
+F:\Documents\HCMUT\HK132 (current)\Artificial Intelligence\Assignments\2\Projects\AIAssignment2\AIAssignment2.Interfaces\bin\Release\Foundations.pdb
+F:\Documents\HCMUT\HK132 (current)\Artificial Intelligence\Assignments\2\Projects\AIAssignment2\Output\Release\Foundations.dll
+F:\Documents\HCMUT\HK132 (current)\Artificial Intelligence\Assignments\2\Projects\AIAssignment2\AIAssignment2.Interfaces\obj\Release\Foundations.dll
+F:\Documents\HCMUT\HK132 (current)\Artificial Intelligence\Assignments\2\Projects\AIAssignment2\AIAssignment2.Interfaces\obj\Release\AIAssignment2.Foundations.csprojResolveAssemblyReference.cache
+E:\Documents\Artificial Intelligence\Assignment2\hung\Output\Release\Foundations.dll
+E:\Documents\Artificial Intelligence\Assignment2\hung\AIAssignment2.Interfaces\obj\Release\AIAssignment2.Foundations.csprojResolveAssemblyReference.cache
+E:\Documents\Artificial Intelligence\Assignment2\hung\AIAssignment2.Interfaces\obj\Release\Foundations.dll

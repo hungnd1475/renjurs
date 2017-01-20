@@ -1,0 +1,17 @@
+F:\Documents\HCMUT\HK132 (current)\Artificial Intelligence\Assignments\2\Projects\AIAssignment2\AIAssignment2.Programs\bin\Release\GoMoku.exe.config
+F:\Documents\HCMUT\HK132 (current)\Artificial Intelligence\Assignments\2\Projects\AIAssignment2\AIAssignment2.Programs\bin\Release\GoMoku.exe
+F:\Documents\HCMUT\HK132 (current)\Artificial Intelligence\Assignments\2\Projects\AIAssignment2\AIAssignment2.Programs\bin\Release\GoMoku.pdb
+F:\Documents\HCMUT\HK132 (current)\Artificial Intelligence\Assignments\2\Projects\AIAssignment2\AIAssignment2.Programs\bin\Release\Foundations.dll
+F:\Documents\HCMUT\HK132 (current)\Artificial Intelligence\Assignments\2\Projects\AIAssignment2\AIAssignment2.Programs\bin\Release\GameLogic.dll
+F:\Documents\HCMUT\HK132 (current)\Artificial Intelligence\Assignments\2\Projects\AIAssignment2\AIAssignment2.Programs\bin\Release\GameLogic.pdb
+F:\Documents\HCMUT\HK132 (current)\Artificial Intelligence\Assignments\2\Projects\AIAssignment2\AIAssignment2.Programs\bin\Release\Foundations.pdb
+F:\Documents\HCMUT\HK132 (current)\Artificial Intelligence\Assignments\2\Projects\AIAssignment2\Output\Release\GoMoku.exe
+F:\Documents\HCMUT\HK132 (current)\Artificial Intelligence\Assignments\2\Projects\AIAssignment2\AIAssignment2.Programs\obj\Release\AIAssignment2.Programs.csprojResolveAssemblyReference.cache
+F:\Documents\HCMUT\HK132 (current)\Artificial Intelligence\Assignments\2\Projects\AIAssignment2\AIAssignment2.Programs\obj\Release\GoMoku.exe
+F:\Documents\HCMUT\HK132 (current)\Artificial Intelligence\Assignments\2\Projects\AIAssignment2\Output\Release\GoMoku.exe.config
+F:\Works\AI\hung\Output\Release\GoMoku.exe.config
+F:\Works\AI\hung\AIAssignment2.Programs\obj\Release\GoMoku.exe
+E:\Documents\Artificial Intelligence\Assignment2\hung\Output\Release\GoMoku.exe.config
+E:\Documents\Artificial Intelligence\Assignment2\hung\AIAssignment2.Programs\obj\Release\GoMoku.exe
+E:\Documents\Artificial Intelligence\Assignment2\hung\Output\Release\GoMoku.exe
+E:\Documents\Artificial Intelligence\Assignment2\hung\AIAssignment2.Programs\obj\Release\AIAssignment2.Programs.csprojResolveAssemblyReference.cache

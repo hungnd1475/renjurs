@@ -1,0 +1,5 @@
+F:\Documents\HCMUT\HK132 (current)\Artificial Intelligence\Assignments\2\Projects\AIAssignment2\AIAssignment2.Interfaces\bin\Debug\AIAssignment2.Interfaces.dll
+F:\Documents\HCMUT\HK132 (current)\Artificial Intelligence\Assignments\2\Projects\AIAssignment2\AIAssignment2.Interfaces\bin\Debug\AIAssignment2.Interfaces.pdb
+F:\Documents\HCMUT\HK132 (current)\Artificial Intelligence\Assignments\2\Projects\AIAssignment2\AIAssignment2.Interfaces\obj\Debug\AIAssignment2.Interfaces.dll
+F:\Documents\HCMUT\HK132 (current)\Artificial Intelligence\Assignments\2\Projects\AIAssignment2\AIAssignment2.Interfaces\obj\Debug\AIAssignment2.Interfaces.pdb
+F:\Documents\HCMUT\HK132 (current)\Artificial Intelligence\Assignments\2\Projects\AIAssignment2\AIAssignment2.Interfaces\obj\Debug\AIAssignment2.Interfaces.csprojResolveAssemblyReference.cache

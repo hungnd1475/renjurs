@@ -1,0 +1,22 @@
+F:\Documents\HCMUT\HK132 (current)\Artificial Intelligence\Assignments\2\Projects\AIAssignment2\AIAssignment2.Programs\bin\Debug\GoMoku.exe.config
+F:\Documents\HCMUT\HK132 (current)\Artificial Intelligence\Assignments\2\Projects\AIAssignment2\AIAssignment2.Programs\bin\Debug\GoMoku.exe
+F:\Documents\HCMUT\HK132 (current)\Artificial Intelligence\Assignments\2\Projects\AIAssignment2\AIAssignment2.Programs\bin\Debug\GoMoku.pdb
+F:\Documents\HCMUT\HK132 (current)\Artificial Intelligence\Assignments\2\Projects\AIAssignment2\AIAssignment2.Programs\bin\Debug\Foundations.dll
+F:\Documents\HCMUT\HK132 (current)\Artificial Intelligence\Assignments\2\Projects\AIAssignment2\AIAssignment2.Programs\bin\Debug\GameLogic.dll
+F:\Documents\HCMUT\HK132 (current)\Artificial Intelligence\Assignments\2\Projects\AIAssignment2\AIAssignment2.Programs\bin\Debug\GameLogic.pdb
+F:\Documents\HCMUT\HK132 (current)\Artificial Intelligence\Assignments\2\Projects\AIAssignment2\AIAssignment2.Programs\bin\Debug\Foundations.pdb
+F:\Documents\HCMUT\HK132 (current)\Artificial Intelligence\Assignments\2\Projects\AIAssignment2\AIAssignment2.Programs\obj\Debug\AIAssignment2.Programs.csprojResolveAssemblyReference.cache
+F:\Documents\HCMUT\HK132 (current)\Artificial Intelligence\Assignments\2\Projects\AIAssignment2\Output\Debug\GoMoku.exe.config
+F:\Documents\HCMUT\HK132 (current)\Artificial Intelligence\Assignments\2\Projects\AIAssignment2\Output\Debug\GoMoku.exe
+F:\Documents\HCMUT\HK132 (current)\Artificial Intelligence\Assignments\2\Projects\AIAssignment2\Output\Debug\GoMoku.pdb
+F:\Documents\HCMUT\HK132 (current)\Artificial Intelligence\Assignments\2\Projects\AIAssignment2\AIAssignment2.Programs\obj\Debug\GoMoku.exe
+F:\Documents\HCMUT\HK132 (current)\Artificial Intelligence\Assignments\2\Projects\AIAssignment2\AIAssignment2.Programs\obj\Debug\GoMoku.pdb
+E:\Documents\Artificial Intelligence\Assignment2\hung\Output\Debug\GoMoku.exe.config
+E:\Documents\Artificial Intelligence\Assignment2\hung\AIAssignment2.Programs\obj\Debug\GoMoku.exe
+E:\Documents\Artificial Intelligence\Assignment2\hung\AIAssignment2.Programs\obj\Debug\GoMoku.pdb
+E:\Documents\Artificial Intelligence\Assignment2\hung\Output\Debug\GoMoku.exe
+E:\Documents\Artificial Intelligence\Assignment2\hung\Output\Debug\GoMoku.pdb
+E:\Documents\Artificial Intelligence\Assignment2\hung\AIAssignment2.Programs\obj\Debug\AIAssignment2.Programs.csprojResolveAssemblyReference.cache
+D:\Documents\Code Projects\Visual Studio\Assignment2\hung\Output\Debug\GoMoku.exe.config
+D:\Documents\Code Projects\Visual Studio\Assignment2\hung\AIAssignment2.Programs\obj\Debug\GoMoku.exe
+D:\Documents\Code Projects\Visual Studio\Assignment2\hung\AIAssignment2.Programs\obj\Debug\GoMoku.pdb
