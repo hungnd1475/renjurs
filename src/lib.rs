@@ -2,6 +2,7 @@ pub mod core;
 pub mod engine;
 pub mod player;
 
-pub fn play(name: &str, eng: &engine::GoEngine) {
-    let (size, time) = eng.greet(name).unwrap();
+use engine::Engine;
+
+pub fn play(name: &str, eng: &Engine) {
 }
